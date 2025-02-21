@@ -12,3 +12,4 @@ E:\Programming\C#\SnakeGame\SnakeGame\obj\Debug\net9.0-windows\refint\SnakeGame.
 E:\Programming\C#\SnakeGame\SnakeGame\obj\Debug\net9.0-windows\SnakeGame.pdb
 E:\Programming\C#\SnakeGame\SnakeGame\obj\Debug\net9.0-windows\SnakeGame.genruntimeconfig.cache
 E:\Programming\C#\SnakeGame\SnakeGame\obj\Debug\net9.0-windows\ref\SnakeGame.dll
+E:\Programming\C#\SnakeGame\SnakeGame\obj\Debug\net9.0-windows\SnakeGame.sourcelink.json
