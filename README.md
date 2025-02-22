@@ -18,7 +18,7 @@ The **Snake Game** is a simple WinForms-based game developed in **C#**. The play
 ## Installation & Setup
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/gaurav-subedi/snake-game.git
 cd snake-game
 ```
 
